@@ -1,5 +1,10 @@
+
 # quocheck
 Random healthcheck quotes for an API
+
+# Installaton
+
+    git submodule add https://github.com/jkarpichev/quocheck.git
 
 # Usage
 
